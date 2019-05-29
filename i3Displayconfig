@@ -1,0 +1,10 @@
+bindsym:
+bindcode:
+\$mod:super
+191:macro 1
+192:macro 2
+193:macro 3
+194:macro 4
+195:macro 5
+Mod2:
+\+KP_:Numkey 
